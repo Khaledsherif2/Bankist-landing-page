@@ -15,3 +15,7 @@ This project focuses on creating smooth user interactions, clean UI design, and 
 - Lazy loading images for performance optimization
 - Interactive testimonial slider
 - Keyboard navigation support
+
+## 🔗 Live Demo
+
+🚀 [View Live Project](https://khaledsherif2.github.io/Bankist-landing-page)
